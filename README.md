@@ -10,8 +10,10 @@
 
 Currently in an engineering cycle in Web & Mobile technology at the Euro-Mediterranean University of Fez, I am passionate about web and mobile development.  My thirst for knowledge pushes me to constantly explore the latest trends and technologies.
 
-- 🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany
-- 🔍 I have 2 live apps: 
-  - [Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
-  - Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))
-- 💬 Ask me about **ReactJs and Frontend**
+- 📧 Email: ounesshimi@gmail.com
+- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more!
+
+## Personal Website 🌐
+[![Website](https://img.shields.io/badge/Visit%20My%20Website-%2300C7B7?style=for-the-badge&logo=icloud&logoColor=white)](https://shimi.netlify.app/)
+
+You can visit my personal website to learn more about me !
