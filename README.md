@@ -35,8 +35,8 @@ I am **Younes Shimi**, a seasoned **Web & Mobile Technology Engineer** from the 
 ### 📈 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youneshimi&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youneshimi&theme=dark" alt="GitHub Streak"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=youneshimi&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youneshimi&theme=dark" alt="GitHub Streak"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youneshimi&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
