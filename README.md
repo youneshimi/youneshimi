@@ -2,12 +2,11 @@
 <p align="center">
     <a href="https://twitter.com/youneshim_i"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/younes-shimi"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/younes_shimi/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
 <img src="https://github.com/youneshimi/youneshimi/blob/main/profile-img.png" align="right" width="25%" alt="Profile image"/>
 
-I am currently pursuing an engineering degree in Web & Mobile Technology at the Euro-Mediterranean University of Fez. Passionate about web and mobile development, I am always eager to explore the latest trends and technologies.
+I am a Web & Mobile Technology Engineer from the Euro-Mediterranean University of Fez. Passionate about web and mobile development, I am always eager to explore the latest trends and technologies.
 
 ---
 
@@ -42,7 +41,7 @@ You can visit my personal website to learn more about me and explore my projects
 ---
 
 ### 📝 About Me
-- 📧 Email: [ounesshimi@gmail.com](mailto:ounesshimi@gmail.com)
+- 📧 Email: [y.shimiyounes@gmail.com](mailto:ounesshimi@gmail.com)
 - 💬 Open to collaborations and always happy to connect. Feel free to reach out!
 
 ---
