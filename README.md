@@ -8,7 +8,7 @@
 
 ### About Me
 
-I am **Younes Shimi**, a seasoned **Web & Mobile Technology Engineer** from the Euro-Mediterranean University of Fez. With a strong passion for crafting innovative solutions, I specialize in creating scalable and efficient web and mobile applications. My commitment to excellence drives me to explore and master the latest technologies, ensuring impactful contributions to every project I undertake.
+I am **Younes Shimi**, a Web & Mobile Technology Engineer graduated from the Euro-Mediterranean University of Fez. Passionate about creating innovative solutions, I specialize in developing scalable and efficient web and mobile applications. My commitment to excellence drives me to explore and master the latest technologies, ensuring meaningful contributions to every project I undertake.
 
 ---
 
