@@ -54,7 +54,7 @@ Visit my personal website to learn more about my professional journey and projec
 
 ### 📨 Get in Touch
 
-- **Email:** [ounesshimi@gmail.com](mailto:ounesshimi@gmail.com)
+- **Email:** [y.shimiyounes@gmail.com](mailto:y.shimiyounes@gmail.com)
 - **LinkedIn:** [linkedin.com/in/younes-shimi](https://www.linkedin.com/in/younes-shimi)
 
 I am always open to discussions about technology, innovation, and collaboration. Let’s connect and create impactful solutions together!
